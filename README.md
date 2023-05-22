@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @ayomideio
-- 👀 I’m interested in javascript,typescript and python ...
-- 💞️ I’m looking to collaborate on apis and web services ...
-- 📫 How to reach me www.ayomideio.tech gokeayomide.tolu@gmail.com ... +2347044712691
+- 👋 Hi, I’m Ayomide Adegoke @ayomideio
+- 👀 I’m a software developer i major in 
+  =>Javascript and TypeScript=>React, React Native,Node.js and Nest.js
+  => Flutter and Dart
+  =>Python Django
+  I am currently job hunting here is How to reach me www.ayomideio.tech gokeayomide.tolu@gmail.com ... +2347045802442 WhatsApp
 
-<!---
-ayomideio/ayomideio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
