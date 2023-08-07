@@ -27,6 +27,6 @@ A mobile File Encryption and Decryption App, it makes use of dart aes algorithm 
 
 ## Contact
 
-I'm always excited to connect and discuss potential projects, collaborations, or employment opportunities. Feel free to reach out to me via email at your@email.com or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile-link](https://www.linkedin.com/in/ayomide-adegoke-876788217)https://www.linkedin.com/in/ayomide-adegoke-876788217).
+I'm always excited to connect and discuss potential projects, collaborations, or employment opportunities. Feel free to reach out to me via email at developer.adeleke.goke@gmail.com or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile-link](https://www.linkedin.com/in/ayomide-adegoke-876788217)https://www.linkedin.com/in/ayomide-adegoke-876788217).
 
 Let's create amazing mobile experiences together!
